@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "266701643959",
+    "firebase_url": "https://testdevicetoken-fea8b.firebaseio.com",
+    "project_id": "testdevicetoken-fea8b",
+    "storage_bucket": "testdevicetoken-fea8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266701643959:android:9fa1f1f4abc11a0c",
+        "android_client_info": {
+          "package_name": "com.newreactredux"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266701643959-ksqnvg6o6ptpi59mfg3h131cn874nqpo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfMIT7UkRWWknlC0Kw5OFX-EF6NGjtgdY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
